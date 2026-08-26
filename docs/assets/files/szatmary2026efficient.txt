@@ -1,0 +1,9 @@
+@article{szatmary2026efficient,
+  title={Efficient Media Routing for Media over QUIC: Balancing Cost and Latency},
+  author={Szatm{\'a}ry, Zolt{\'a}n and Szenczy, Bal{\'a}zs and L{\'e}vai, Tam{\'a}s},
+  journal={Infocommunications Journal},
+  volume={18},
+  number={2},
+  pages={2--8},
+  year={2026}
+}

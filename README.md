@@ -1,2 +1,2 @@
 # zotyamester.github.io
-Personal website.
+Personal website based on [minimal-light](https://github.com/yaoyao-liu/minimal-light).

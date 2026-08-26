@@ -1,0 +1,31 @@
+main:
+
+  - title: "Efficient Media Routing for Media over QUIC: Balancing Cost and Latency"
+    authors: <strong>Zoltán Szatmáry</strong>, Balázs Szenczy, Tamás Lévai.
+    conference_short: Infocommunications
+    conference: Infocommunications Journal, 2026.
+    pdf: https://real.mtak.hu/243826/1/ICJ_2026_2_1.pdf
+    code: https://github.com/hsnlab/moq-relay-topo-opt
+    bibtex: ./assets/files/szatmary2026efficient.txt
+    image: ./assets/img/teaser-szatmary2026efficient.png
+    notes: Published
+
+  - title: "Enhancing MoQ Resiliency with Implicit Failover Methods"
+    authors: <strong>Zoltán Szatmáry</strong>, Felicián Németh, István Pelle, Tamás  Lévai.
+    conference_short: IEEE TMM
+    conference: IEEE Transactions on Multimedia, 2026.
+    # pdf: https://ieeexplore.ieee.org/
+    code: https://github.com/hsnlab/moq-rs
+    # bibtex: ./assets/files/szatmary2026enhancing.txt
+    image: ./assets/img/teaser-szatmary2026enhancing.png
+    notes: Accepted
+
+  - title: "MoQ Resilience: Implicit Fast Failover"
+    authors: Felicián Németh, <strong>Zoltán Szatmáry</strong>, István Pelle, Tamás  Lévai.
+    conference_short: SIGCOMM EMS'25
+    conference: Proceedings of the 3rd Workshop on Emerging Multimedia Systems, 2025.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3746441.3748235
+    code: https://github.com/hsnlab/moq-rs
+    bibtex: ./assets/files/nemeth2025moq.txt
+    image: ./assets/img/teaser-nemeth2025moq.png
+    notes: Published

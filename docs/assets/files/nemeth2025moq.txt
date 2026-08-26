@@ -1,0 +1,7 @@
+@inproceedings{nemeth2025moq,
+  title={MoQ Resilience: Implicit Fast Failover},
+  author={N{\'e}meth, Felici{\'a}n and Szatm{\'a}ry, Zolt{\'a}n and Istv{\'a}n, Pelle and L{\'e}vai, Tam{\'a}s},
+  booktitle={Proceedings of the 3rd Workshop on Emerging Multimedia Systems},
+  pages={61--63},
+  year={2025}
+}
