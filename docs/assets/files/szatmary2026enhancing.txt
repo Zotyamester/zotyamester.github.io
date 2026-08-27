@@ -1,0 +1,11 @@
+@article{szatmary2026enhancing,
+  author={Szatm{\'a}ry, Zolt{\'a}n and N{\'e}meth, Felici{\'a}n and Pelle, Istv{\'a}n and L{\'e}vai, Tam{\'a}s},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Enhancing MoQ Resiliency With Implicit Failover Methods}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Relays;Media;Modeling;Timing;Delays;Tracking;Joining processes;Protocols;Videos;Internet;Media over QUIC;failover;high-availability;resiliency;media transmission},
+  doi={10.1109/TMM.2026.3727860}
+}

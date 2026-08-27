@@ -16,7 +16,7 @@ Parallel to my studies, I do a part time Research Assisstantship, and in each se
 ## News
 
 - **[Jul. 2026]** Our paper on MoQ topology optimization is accepted to Infocommunications.
-- **[Jun. 2026]** Our full-length paper on MoQ Resilience is accepted to IEEE TMM.
+- **[Jul. 2026]** Our full-length paper on MoQ Resilience is accepted to IEEE TMM.
 - **[Jul. 2025]** Our short paper about MoQ Resilience is accepted to SIGCOMM EMS'25.
 
 {% include_relative _includes/publications.md %}

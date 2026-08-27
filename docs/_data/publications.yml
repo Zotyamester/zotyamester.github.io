@@ -11,17 +11,17 @@ main:
     notes: Published
 
   - title: "Enhancing MoQ Resiliency with Implicit Failover Methods"
-    authors: <strong>Zoltán Szatmáry</strong>, Felicián Németh, István Pelle, Tamás  Lévai.
+    authors: <strong>Zoltán Szatmáry</strong>, Felicián Németh, István Pelle, Tamás Lévai.
     conference_short: IEEE TMM
     conference: IEEE Transactions on Multimedia, 2026.
-    # pdf: https://ieeexplore.ieee.org/
+    pdf: https://ieeexplore.ieee.org/document/11667220
     code: https://github.com/hsnlab/moq-rs
-    # bibtex: ./assets/files/szatmary2026enhancing.txt
+    bibtex: ./assets/files/szatmary2026enhancing.txt
     image: ./assets/img/teaser-szatmary2026enhancing.png
-    notes: Accepted
+    notes: Early Access
 
   - title: "MoQ Resilience: Implicit Fast Failover"
-    authors: Felicián Németh, <strong>Zoltán Szatmáry</strong>, István Pelle, Tamás  Lévai.
+    authors: Felicián Németh, <strong>Zoltán Szatmáry</strong>, István Pelle, Tamás Lévai.
     conference_short: SIGCOMM EMS'25
     conference: Proceedings of the 3rd Workshop on Emerging Multimedia Systems, 2025.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3746441.3748235
